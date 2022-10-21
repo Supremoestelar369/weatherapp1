@@ -23,7 +23,7 @@
 .card{
    width: 95%;
     max-width: 400px;
-    background-color: 
+    background-color: rgba(183, 192, 199, 0.6);
     padding: 20px;
     border-radius: 10px;
     color: #1f1f32;
