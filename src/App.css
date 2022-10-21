@@ -21,15 +21,14 @@
 }
 
 .card{
-    width: 95%;
-    max-width: 400px;
-    background-color: rgba(183, 192, 199, 0.6);
-    padding: 20px;
-    border-radius: 10px;
-    color: #1f1f32;
-    box-shadow: 0 0 10px rgba(218, 203, 5, 0.7);
-    display: grid;
-    grid-template-columns: (2, 1fr);
+   display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+  width: 95%;
+  max-width: 370px;
+  border: 2px solid lightcoral;
+  border-radius: 15px;
+  background-color: mistyrose;
 
 }
 
